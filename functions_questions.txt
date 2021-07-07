@@ -1,0 +1,41 @@
+Name:
+Date:
+
+1 - What is the return value of the len() function?
+
+
+
+2 - What is the return value of the print() function?
+
+
+
+3 - Can a function be used in an operation or expression?
+
+
+
+4 - Are functions name case-sensitive?
+
+
+
+5 - What are the 3 rules behind good names for variables and functions?
+
+
+
+6 - What is the keyword used to define a function?
+
+
+
+7 - What is name of the values used in a function call?
+
+
+
+8 - What is the name of the values used in a function definition?
+
+
+
+9 - Are parameters variables?
+
+
+10 - How do you return a value?
+
+
